@@ -1,0 +1,49 @@
+{
+ "203659.0": {
+  "grid": 2754,
+  "name": "<b>Generał Duch</b>",
+  "order": 0,
+  "time": 1000,
+  "skills": {},
+  "army": {
+   "Recruit": 55,
+   "Cavalry": 80,
+   "Crossbowman": 80
+  },
+  "type": 63,
+  "target": 2002,
+  "targetName": "Obóz wikingów (średni)"
+ },
+ "186941.0": {
+  "grid": 2619,
+  "name": "<b>Mistrz sztuk walki</b>",
+  "order": 1,
+  "time": 5000,
+  "skills": {
+   "2": 3,
+   "6": 1,
+   "11": 3
+  },
+  "army": {
+   "Recruit": 5,
+   "Cavalry": 85,
+   "Crossbowman": 130
+  },
+  "type": 16,
+  "target": 2288,
+  "targetName": "Obóz wikingów (średni)"
+ },
+ "169285.0": {
+  "grid": 2891,
+  "name": "<b>Gienia</b> <font size='-3'>(Generał Ponury Żniwiarz)</font>",
+  "order": 2,
+  "time": 10000,
+  "skills": {},
+  "army": {
+   "Bowman": 200
+  },
+  "type": 7,
+  "target": 2634,
+  "targetName": "Obóz wikingów (trudny)"
+ }
+}

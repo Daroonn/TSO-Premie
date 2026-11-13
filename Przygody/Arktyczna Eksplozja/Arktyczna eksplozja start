@@ -1,0 +1,113 @@
+{
+ "203659.0": {
+  "grid": 9094,
+  "name": "<b>Generał Duch</b>",
+  "order": 0,
+  "time": 1000,
+  "skills": {
+   "11": 3,
+   "14": 2
+  },
+  "army": {
+   "Recruit": 215
+  },
+  "type": 63
+ },
+ "182224.0": {
+  "grid": 9271,
+  "name": "<b>Generał major</b>",
+  "order": 1,
+  "time": 1000,
+  "skills": {
+   "0": 2,
+   "2": 3,
+   "10": 1
+  },
+  "army": {
+   "Recruit": 12,
+   "Crossbowman": 165
+  },
+  "type": 13
+ },
+ "169285.0": {
+  "grid": 9448,
+  "name": "<b>Gienia</b> <font size='-3'>(Generał Ponury Żniwiarz)</font>",
+  "order": 2,
+  "time": 1000,
+  "skills": {},
+  "army": {
+   "Cavalry": 124,
+   "Crossbowman": 75
+  },
+  "type": 7
+ },
+ "184698.0": {
+  "grid": 9627,
+  "name": "<b>Główny kwatermistrz</b>",
+  "order": 3,
+  "time": 1000,
+  "skills": {},
+  "army": {
+   "Recruit": 104,
+   "Bowman": 506
+  },
+  "type": 12
+ },
+ "148543.0": {
+  "grid": 9273,
+  "name": "<b>Kosiaż</b> <font size='-3'>(Generał Ponury Żniwiarz)</font>",
+  "order": 4,
+  "time": 1000,
+  "skills": {},
+  "army": {
+   "Bowman": 50
+  },
+  "type": 7
+ },
+ "186941.0": {
+  "grid": 9450,
+  "name": "<b>Mistrz sztuk walki</b>",
+  "order": 5,
+  "time": 1000,
+  "skills": {
+   "2": 3,
+   "6": 1,
+   "11": 3
+  },
+  "army": {
+   "Recruit": 5,
+   "Bowman": 5,
+   "Crossbowman": 115,
+   "Cannoneer": 95
+  },
+  "type": 16
+ },
+ "163866.0": {
+  "grid": 9007,
+  "name": "<b>Pijany mistrz</b> <font size='-3'>(Mistrz sztuk walki)</font>",
+  "order": 6,
+  "time": 1000,
+  "skills": {},
+  "army": {
+   "Cavalry": 146
+  },
+  "type": 16
+ },
+ "212362.0": {
+  "grid": 9452,
+  "name": "<b>Młodszy generał Gemini</b>",
+  "order": 7,
+  "time": 1000,
+  "skills": {
+   "2": 3,
+   "6": 1,
+   "11": 2,
+   "14": 3
+  },
+  "army": {
+   "Bowman": 15,
+   "Crossbowman": 125
+  },
+  "type": 50
+ }
+}

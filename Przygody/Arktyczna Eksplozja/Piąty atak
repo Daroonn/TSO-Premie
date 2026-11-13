@@ -1,0 +1,21 @@
+{
+ "186941.0": {
+  "grid": 2619,
+  "name": "<b>Mistrz sztuk walki</b>",
+  "order": 3,
+  "time": 1000,
+  "skills": {
+   "2": 3,
+   "6": 1,
+   "11": 3
+  },
+  "army": {
+   "Recruit": 65,
+   "Cavalry": 40,
+   "Crossbowman": 115
+  },
+  "type": 16,
+  "target": 4803,
+  "targetName": "Obóz wikingów (średni)"
+ }
+}
